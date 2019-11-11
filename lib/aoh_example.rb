@@ -12,7 +12,7 @@ def assembled_aoh
   assembled_aoh = [
     { name:  "Don Gately", occupation: "Live-in Staff" },
     { name:  "Joelle van Dyne", occupation: "Radio Personality" }, 
-    PAT_M,
+    { name:  "Pat Monteseian", occupation: "Staff" }, 
     KATE_G, 
     BRUCE_G]
 end
